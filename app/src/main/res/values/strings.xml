@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Restaurants</string>
+    <string name="no_internet_description">Icon for no connection screen</string>
+    <string name="no_Fav_description">Icon for no favorite screen</string>
+    <string name="no_connection">Потеряно соединение с интернетом</string>
+    <string name="no_fav">У вас еще нет любимых заведений</string>
+    <string name="try_again_text">Попробуйте перезагрузить страницу</string>
+    <string name="try_again">Перезагрузить</string>
+    <string name="title_restaurants">Рестораны</string>
+    <string name="title_restaurant">Ресторан</string>
+    <string name="main_image_of_card_of_organization">Main image of card of organization</string>
+    <string name="icon_for_favorite_organization">Icon for favorite organization</string>
+    <string name="icon_for_rating_star">Icon for rating star</string>
+    <string name="icon_for_not_rating_star">Icon for not rating star</string>
+    <string name="euro_symbol">€</string>
+    <string name="icon_for_back_button">Icon for back button</string>
+    <string name="photo_of_organization_in_details">Photo of organization in details</string>
+    <string name="example_text_description">Мы рады предложить вам уникальную атмосферу и изысканную кухню. Наше меню включает в себя разнообразные блюда, приготовленные из свежих и качественных ингредиентов. Каждый наш гость найдет здесь что-то по своему вкусу.\n
+        \nПриходите к нам на завтрак, обед или ужин и насладитесь прекрасными блюдами и напитками в уютной обстановке. Мы стремимся сделать ваше пребывание у нас незабываемым и приятным. И вообще этот текст тут находится, так как с апишки никакого описания не пришло((</string>
+    <string name="description_title">Описание</string>
+</resources>
