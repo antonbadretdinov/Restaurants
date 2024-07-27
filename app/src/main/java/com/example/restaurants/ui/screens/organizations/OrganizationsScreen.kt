@@ -1,6 +1,5 @@
 package com.example.restaurants.ui.screens.organizations
 
-import android.util.Log
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Row
@@ -81,9 +80,6 @@ fun OrganizationsScreen(
     var isFavoriteVisibleNowState by rememberSaveable {
         mutableStateOf(false)
     }
-
-    Log.e("MyTag", "Count:$favoriteCount")
-    Log.e("MyTag", "ids: $favoriteIds")
 
     LaunchedEffect(reloadPageState) {
         if (reloadPageState) {
